@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there, I'm Titli Bhattacharya! 👋
 
-<!--
-**Titli004/Titli004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Business Analytics student | 💾 PostgreSQL & Python Enthusiast | 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙋‍♀️ About Me
+
+
+🎓 Currently pursuing MSc Business Analytics
+💻 Building real-world projects using PostgreSQL and healthcare data
+🏥 Working on a Healthcare Management System using the Synthea COVID-19 dataset (10,000 patients)
+📚 Currently learning: SQL · PostgreSQL · Data Analytics · Business Intelligence . Python 
+📍 Based in Kolkata, West Bengal, India
+🌱 Always exploring how data can drive better business and healthcare decisions and many more industries
